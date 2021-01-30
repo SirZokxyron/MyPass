@@ -180,7 +180,7 @@
 	int main (int argc, char * argv[]) {
 		//> Get the default encrypted file
 		string safe_file = "passwords.safe";
-
+		
 		//> Setting up the database
 		database D;
 		init_data(&D);
